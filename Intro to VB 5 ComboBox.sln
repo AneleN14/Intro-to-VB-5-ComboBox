@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Intro to VB 5 ComboBox", "Intro to VB 5 ComboBox\Intro to VB 5 ComboBox.vbproj", "{FACD5AAD-2259-47AD-BB72-7196DB41E77A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FACD5AAD-2259-47AD-BB72-7196DB41E77A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FACD5AAD-2259-47AD-BB72-7196DB41E77A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FACD5AAD-2259-47AD-BB72-7196DB41E77A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FACD5AAD-2259-47AD-BB72-7196DB41E77A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1ACB6D80-762A-4C1D-896F-FA1B7DA3F114}
+	EndGlobalSection
+EndGlobal
